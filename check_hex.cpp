@@ -16,7 +16,6 @@ int main()
     cout<<temp<<endl;
 
     int p=0x0;
-    //x=x+a;
     cout<<x<<endl;
 }
 
