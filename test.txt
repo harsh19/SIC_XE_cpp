@@ -1,0 +1,6 @@
+PROBA    START   000
+FIRST    LDX    #0
+         LDT    #32
+         LDS    #4 
+         LDA    #0
+     LDX #4
